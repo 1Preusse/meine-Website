@@ -1,0 +1,32 @@
+
+body{
+   font-family: Arial;
+   background-color: whitesmoke;
+}
+h1 { 
+    font-family: Helvetica;
+    font-size: 3em;
+    color: lime;
+    text-align: center;
+
+ }
+ h2{
+    font-family: Helvetica;
+    font-size: 2em;
+    color: lime;
+    text-align: center;
+ }
+ p{
+   font-family: Arial;
+   font-size: 3em;
+   color: whitesmoke;
+   text-align: center;
+   background-color: gray;
+ }
+ .secondary {
+   font-family: Arial;
+   font-size: 3em;
+   color: whitesmoke;
+   text-align: center;
+   background-color: grey;
+ }
